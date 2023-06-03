@@ -1,2 +1,2 @@
 -- Script to calculate average
-SELECT AVG(score) as Average from second_table;
+SELECT AVG(score) as average from second_table;
